@@ -1,4 +1,4 @@
-[2:27 pm, 10/03/2022] Suchaitra Reva: #include<stdio.h>
+#include<stdio.h>
 struct _fraction
 {
   int num,den;
